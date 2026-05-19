@@ -15,7 +15,7 @@ We work across multiple industries, from startups to government agencies and eve
 ## What we do
 
 - **Software engineering**: Building and modernizing business-critical applications, often in regulated environments
-- **Cloud and platform engineering**: Designing and operating infrastructure mainly on AWS and Azure, but also on GCP, Oracle, and European cloud and infrastructure providers — including our own data centres
+- **Cloud and platform engineering**: Designing and operating infrastructure mainly on AWS and Azure, but also on GCP, Oracle, and European cloud and infrastructure providers - incl our own data centres
 - **Data and AI**: Data platforms, ML systems, and applied AI integrated into existing operations
 - **Cybersecurity**: Assessment, implementation, and managed services
 - **Systems integration**: Connecting legacy and modern systems where downtime isn't an option
